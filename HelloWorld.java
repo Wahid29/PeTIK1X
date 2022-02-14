@@ -4,6 +4,7 @@ public class HelloWorld {
         System.out.println("nama saya : uep");
         System.out.println("alamat saya : aceh");
         System.out.println("no.hp : 088888888");
-        System.out.println("Saya sangat senang saat mendapat diskon di indomaret, tetapi saya menyesal tidak ikut main bersama teman-teman saya.")
+        System.out.println("Saya sangat senang saat mendapat diskon di indomaret, tetapi saya menyesal tidak ikut main bersama teman-teman saya.");
+        System.out.println("Namun setelah saya fikir kembali, ternyata saya sangat bersyukur tidak terjerumus ke dalam jalan yang sesat");
      
     }

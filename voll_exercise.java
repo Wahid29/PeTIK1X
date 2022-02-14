@@ -1,4 +1,4 @@
-public class BarisArray {
+public class voll_exercise {
 
     /**
      * @param args the command line arguments
